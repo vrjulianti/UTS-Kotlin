@@ -104,7 +104,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
-                android:text="Overview"
+                android:text="@string/tab_overview"
                 android:textColor="@color/green_background"
                 android:textSize="15sp"
                 android:gravity="center_horizontal"/>
@@ -113,7 +113,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
-                android:text="Menu"
+                android:text="@string/tab_menu"
                 android:textColor="@color/green_background"
                 android:textSize="15sp"
                 android:gravity="center_horizontal"/>
@@ -122,7 +122,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
-                android:text="Reviews"
+                android:text="@string/tab_reviews"
                 android:textColor="@color/green_background"
                 android:textSize="15sp"
                 android:gravity="center_horizontal"/>
@@ -131,7 +131,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
-                android:text="Photos"
+                android:text="@string/tab_photos"
                 android:textColor="@color/green_background"
                 android:textSize="16sp"
                 android:gravity="center_horizontal"/>

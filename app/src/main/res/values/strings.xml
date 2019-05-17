@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Zomato</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_reviews">Reviews</string>
+    <string name="tab_menu">Menu</string>
+    <string name="tab_overview">Overview</string>
 
     <string-array name="category_title">
         <item>Trending This Week</item>
