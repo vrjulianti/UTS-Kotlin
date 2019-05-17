@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Zomato</string>
+
+    <string-array name="category_title">
+        <item>Trending This Week</item>
+        <item>Great Breakfasts</item>
+        <item>Late Night Restaurants</item>
+        <item>Great Coffee</item>
+        <item>Sweet Tooth</item>
+    </string-array>
+
+    <string-array name="category_outlet">
+        <item>8 Places, 15118 Saves</item>
+        <item>6 Places, 5909 Saves</item>
+        <item>8 Places, 5689 Saves</item>
+        <item>9 Places, 3005 Saves</item>
+        <item>5 Places, 2807 Saves</item>
+    </string-array>
+
+    <string-array name="category_detail">
+        <item>Most popular restaurants in town this week</item>
+        <item>The breakfast must have something to do with happiness</item>
+        <item>Banish those midnight cravings with our handy list of late night restaurants serving all your favourite
+            comfort food
+        </item>
+        <item>Caffeinate away with that perfect cup of cappuccino, mocha or latte from some of the best coffee spots
+        </item>
+        <item>From cookies and doughnuts to ice cream and cakes, knock yourself out with these classic and creative
+            desserts
+        </item>
+    </string-array>
+
+    <string-array name="category_imageUrl">
+        <item>https://b.zmtcdn.com/data/collections/acc0d176aacf152c8329282944316fa7_1535469415.jpg?output-format=webp
+        </item>
+        <item>https://b.zmtcdn.com/data/collections/f1cade66725dbc178d4546cc6e0ab56b_1535628659.jpg?output-format=webp
+        </item>
+        <item>https://b.zmtcdn.com/data/collections/d05df2c95e634ad6ec77c0d8c48b6a33_1539323118.jpg?output-format=webp
+        </item>
+        <item>https://b.zmtcdn.com/data/collections/309e890904fc0bd0eae07d4cee75af0f_1538393787.jpg?output-format=webp
+        </item>
+        <item>https://b.zmtcdn.com/data/collections/ab72bf6f7172c1f616fdd5aecb50dc80_1535696200.jpg?output-format=webp
+        </item>
+    </string-array>
+
+    <string-array name="res_title">
+        <item>Sushi Tomi</item>
+        <item>Specialty</item>
+        <item>Amici East Coast Pizzeria</item>
+        <item>Shana Thai</item>
+        <item>In-N-Out Burger</item>
+        <item>Sakoon</item>
+    </string-array>
+
+    <string-array name="res_location">
+        <item>Mountain View, Mountain View</item>
+        <item>Mountain View, Mountain View</item>
+        <item>Mountain View, Mountain View</item>
+        <item>Mountain View, Mountain View</item>
+        <item>Mountain View, Mountain View</item>
+        <item>Mountain View, Mountain View</item>
+    </string-array>
+
+    <string-array name="res_type">
+        <item>Sushi, Japanese</item>
+        <item>Cafe, Bakery</item>
+        <item>Pizza, Italian</item>
+        <item>Thai</item>
+        <item>Burger, Fast Food</item>
+        <item>Indian</item>
+    </string-array>
+
+    <string-array name="res_price">
+        <item>$ 30 for two people</item>
+        <item>$ 25 for two people</item>
+        <item>$ 45 for two people</item>
+        <item>$ 35 for two people</item>
+        <item>$ 15 for two people</item>
+        <item>$ 60 for two people</item>
+    </string-array>
+
+    <string-array name="res_rating">
+        <item>3.7</item>
+        <item>3.5</item>
+        <item>3.8</item>
+        <item>4.0</item>
+        <item>3.9</item>
+        <item>3.8</item>
+    </string-array>
+
+    <string-array name="res_imageUrl">
+        <item>https://b.zmtcdn.com/data/pictures/3/16851193/1d353be6e0c23c35c110b663052d2f75_top_thumb_620_314.jpg
+        </item>
+        <item>https://b.zmtcdn.com/data/pictures/3/16853523/56ed5bb9ad2a68c4647a40e5dbcc5187_top_thumb_620_314.png
+        </item>
+        <item>https://b.zmtcdn.com/data/pictures/8/16840078/ddc7fbecf530ebf8a437cfdd9dcf8cf8_top_thumb_620_314.jpg
+        </item>
+        <item>https://b.zmtcdn.com/data/pictures/2/16853502/f1c59efc7bbf12cbc30c724b3a214bfb_top_thumb_620_314.jpg
+        </item>
+        <item>https://b.zmtcdn.com/data/pictures/5/16844845/042668ec17cc4c6083ee3bc61419235e_top_thumb_620_314.jpg
+        </item>
+        <item>https://b.zmtcdn.com/data/pictures/8/16858418/ae9664f6daaf291fe51f675cb051e817_top_thumb_620_314.jpg
+        </item>
+    </string-array>
+</resources>

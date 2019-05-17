@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:elevation="4dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp">
+    <RelativeLayout
+            android:id="@+id/layout_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+
+        <ImageView
+                android:id="@+id/poster_image"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/ic_launcher_background"
+                android:scaleType="centerCrop"/>
+
+        <TextView
+                android:id="@+id/textview_category"
+                android:layout_toRightOf="@id/poster_image"
+                android:layout_marginLeft="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Terpopuler Minggu Ini"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+        <TextView
+                android:id="@+id/textview_outlet"
+                android:layout_toRightOf="@id/poster_image"
+                android:layout_below="@id/textview_category"
+                android:layout_marginTop="4dp"
+                android:layout_marginLeft="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8 Outlet, Disimpan 15118 kali"
+                android:textColor="@color/grey_text"
+                android:textSize="12sp"/>
+        <TextView
+                android:id="@+id/textview_detail"
+                android:layout_toRightOf="@id/poster_image"
+                android:layout_below="@id/textview_outlet"
+                android:layout_marginTop="4dp"
+                android:layout_marginLeft="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Restoran terpopuler di kotamu minggu ini"
+                android:maxLines="3"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="12sp"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
